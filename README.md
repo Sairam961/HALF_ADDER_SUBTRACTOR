@@ -34,6 +34,7 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+
  <img width="399" height="325" alt="image" src="https://github.com/user-attachments/assets/deef171c-3b3a-464b-833d-275c7fb17dec" />
 
 
@@ -60,6 +61,30 @@ Figure -02 HALF Subtractor
 ```
 Developed by:R.Sairam
 RegisterNumber:25000694
+```
+
+**Half Adder**
+```
+module half_adder(sum, carry, a, b);
+  output sum;
+  output carry;
+  input a;
+  input b;
+  assign sum = a ^ b;
+  assign carry = a & b;
+endmodule
+```
+
+**Half Subtractor**
+```
+module half_subtractor(diff, borrow, a, b);
+  output diff;
+  output borrow;
+  input a;
+  input b;
+  assign diff = a ^ b;
+  assign borrow = ~a & b;
+endmodule
 ```
 **RTL Schematic**
 
