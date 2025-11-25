@@ -96,11 +96,19 @@ Half Adder
  <img width="732" height="399" alt="image" src="https://github.com/user-attachments/assets/4f309c24-e37c-4428-b4a2-6b9ce211eb6c" />
 
 Half Subtractor
+
+ <img width="729" height="426" alt="image" src="https://github.com/user-attachments/assets/c074c7ea-22a5-464b-9e42-df2e2e127302" />
+
  
 **Output/TIMING Waveform**
 
 Half Adder
+
  <img width="1280" height="762" alt="image" src="https://github.com/user-attachments/assets/66b75c00-c2c0-4a95-a9f5-5fe88c71ec95" />
 
+Half Subtractor
+
+ <img width="1280" height="762" alt="image" src="https://github.com/user-attachments/assets/6e0dfd41-2f69-432d-96b8-516a3209a679" />
 
 **Result:**
+Thus the Half Adder and Half Subtractor are studied and the truth tables are verified
