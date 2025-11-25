@@ -91,6 +91,16 @@ endmodule
 ```
 **RTL Schematic**
 
+Half Adder
+
+ <img width="732" height="399" alt="image" src="https://github.com/user-attachments/assets/4f309c24-e37c-4428-b4a2-6b9ce211eb6c" />
+
+Half Subtractor
+ 
 **Output/TIMING Waveform**
+
+Half Adder
+ <img width="1280" height="762" alt="image" src="https://github.com/user-attachments/assets/66b75c00-c2c0-4a95-a9f5-5fe88c71ec95" />
+
 
 **Result:**
